@@ -52,13 +52,8 @@ Dictionaries:
 
 Functions:
 
-    Implement a function to memoize the Fibonacci sequence.
-    Write a program to generate all prime numbers up to a given number using the Sieve of Eratosthenes algorithm.
-    Implement a function to compute the nth factorial using memoization.
     Write a Python program to implement the Tower of Hanoi puzzle using recursion.
-    Implement a function to calculate the Levenshtein distance between two strings.
     Write a program to generate all possible valid combinations of parentheses.
-    Implement a function to compute the nth term of the Fibonacci sequence using matrix exponentiation.
     Write a Python program to calculate the determinant of a square matrix using recursion.
     Implement a function to generate all permutations of a string using recursion.
     Write a program to implement the quicksort algorithm using recursion.
